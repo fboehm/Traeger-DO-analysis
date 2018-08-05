@@ -13,5 +13,5 @@ I copied the files that I received by email to a subdirectory, "data". The two f
 
 In examining the .tsv file, we see that it contains one row of information (plus a header row).
 
-The one row specifies two phenotypes that both map to chromosome 15. The two phenotypes are: "K01657" and "K02502".
+The one row specifies two phenotypes that both map to chromosome 15. The two phenotypes are: "K01657" and "K02502". Univariately, they map to 72 cM and 63 cM on chromosome 15. 
 
