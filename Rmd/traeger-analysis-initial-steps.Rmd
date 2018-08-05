@@ -1,0 +1,17 @@
+---
+title: "Initial steps with Traeger's data analysis"
+author: "Frederick Boehm"
+date: "8/5/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I copied the files that I received by email to a subdirectory, "data". The two files received by email are "chr15_hotspots.tsv" and "DO_summedKO_rankz_20180410.rds".
+
+In examining the .tsv file, we see that it contains one row of information (plus a header row).
+
+The one row specifies two phenotypes that both map to chromosome 15. The two phenotypes are: "K01657" and "K02502".
+
